@@ -37,7 +37,7 @@ export default {
   padding: 0;
   box-sizing: border-box;
   background-color:  rgb(49, 48, 64);
-  
+ 
   scroll-behavior: smooth;
 
 }
