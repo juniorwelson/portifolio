@@ -37,10 +37,11 @@ export default {
 <style scoped>
 #container{
     display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color:  rgb(49, 48, 64);
-   gap:50px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(49, 48, 64);
+  gap: 50px;
+  padding-top: 80px; /* adiciona espaço abaixo da navbar */
 }
 #texto{
     display: flex;
