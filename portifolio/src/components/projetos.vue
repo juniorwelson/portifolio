@@ -159,6 +159,13 @@ export default {
 #projetos{
 margin-left:10%;
 }
+.card,img {
+  border-radius: 10px !important;
+}
+.card:hover {
+transform: scale(1.1);
+transition: 0.5s;
+}
 .tecnologia {
   display: flex;
   align-items: center;
