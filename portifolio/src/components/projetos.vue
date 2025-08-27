@@ -1,7 +1,7 @@
 <template>
 <section id="projeto" class="mt-5">
   <h2 id="title" class="pb-5">Projetos</h2>
-  <div id="projetos" class="d-flex justify-center flex-wrap ">
+  <div id="projetos" class="d-flex justify-center flex-wrap "  data-aos="fade-left">
     
     <div class="card bg- ms-5" style="width: 20rem">
       <img
@@ -150,8 +150,13 @@
 </template>
 
 <script>
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 export default {
   name: "projetos",
+   mounted() {
+        AOS.init()
+    }
 };
 </script>
 
