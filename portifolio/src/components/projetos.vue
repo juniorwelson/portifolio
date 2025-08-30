@@ -1,7 +1,7 @@
 <template>
 <section id="projeto" class="mt-5">
   <h2 id="title" class="pb-5">Projetos</h2>
-  <div id="projetos" class="d-flex justify-center flex-wrap "  data-aos="fade-left">
+  <div id="projetos" class="d-flex justify-center flex-wrap " >
     
     <div class="card bg- ms-5" style="width: 20rem">
       <img
@@ -150,19 +150,16 @@
 </template>
 
 <script>
-import AOS from 'aos';
-import 'aos/dist/aos.css';
+
 export default {
   name: "projetos",
-   mounted() {
-        AOS.init()
-    }
+   
 };
 </script>
 
 <style scoped>
 #projetos{
-margin-left:10%;
+margin-left:12%;
 }
 .card,img {
   border-radius: 10px !important;
@@ -210,7 +207,7 @@ transition: 0.5s;
 /*responsivo max 450px*/
 @media (max-width:450px){
   #projetos{
-margin-left:3%;
+margin-left:0%;
 }
 .card{
   margin-bottom: 5%;
@@ -220,7 +217,7 @@ margin-left:3%;
 /*responsivo max 600px e min 450px*/
 @media (max-width:600px) and (min-width:450px){
   #projetos{
-margin-left:14%;
+margin-left:8%;
 }
 .card{
   margin-bottom: 5%;
