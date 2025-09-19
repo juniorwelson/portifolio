@@ -12,7 +12,7 @@
         <a href="mailto:eujuniorplus@gmail.com?subject=Olá&body=Quero%20falar%20sobre%20seu%20portfólio." target="_blank" aria-label="Email">
           <img src="../public/img/icons8-nova-mensagem-30.png" alt="Email" class="icone-social" />
         </a>
-        <a href="https://w.app/rnbkif" target="_blank" aria-label="WhatsApp">
+        <a href="https://wa.me/5575999431903?text=ol%C3%A1%20welson%2C%20vim%20do%20seu%20portifolio.%20Podemos%20marcar%20uma%20entrevista%3F" target="_blank" aria-label="WhatsApp">
           <img src="../public/img/icons8-whatsapp-50 (1).png" alt="WhatsApp" class="icone-social" />
         </a>
       </div>
