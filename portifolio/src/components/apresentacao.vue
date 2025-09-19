@@ -9,12 +9,12 @@
    <a href="https://github.com/juniorwelson" target="_blank"> <img id="git" src="../public/img/icons8-github-30.png" alt="logo github" ></a>
    <a href="https://www.linkedin.com/in/welson-junior-a587b72b8" target="_blank">  <img  id="linkdin" src="../public/img/icons8-linkedin-50.png" alt="logo linkdin"></a>
     <a href="mailto:eujuniorplus@gmail.com?subject=Olá&body=Quero%20falar%20sobre%20seu%20portfólio." target="_blank"> <img id="email" src="../public/img/icons8-nova-mensagem-30.png" alt="logo email"></a>
-        <a href="https://w.app/rnbkif" target="_blank">   <img id="zap" src="../public/img/icons8-whatsapp-50 (1).png" alt="logo zap"></a>
+        <a href="https://wa.me/5575999431903?text=ol%C3%A1%20welson%2C%20vim%20do%20seu%20portifolio.%20Podemos%20marcar%20uma%20entrevista%3F" target="_blank">   <img id="zap" src="../public/img/icons8-whatsapp-50 (1).png" alt="logo zap"></a>
 
 </div> 
 <div id="acao">
-    <a class="social"  target="_blank" href="https://github.com/juniorwelson/curriculo-welson/blob/main/%E2%97%BB%E2%97%BB%20Welson%20Barbosa%20dos%20Santos%20Junior.pdf">Download CV</a>
-    <a class="social" target="_blank" href="https://w.app/rnbkif">Marcar uma Entrevista</a>
+    <a class="social"  target="_blank" href="https://github.com/juniorwelson/curriculo-welson/blob/main/cv-welson.pdf">Download CV</a>
+    <a class="social" target="_blank" href="https://wa.me/5575999431903?text=ol%C3%A1%20welson%2C%20vim%20do%20seu%20portifolio.%20Podemos%20marcar%20uma%20entrevista%3F">Marcar uma Entrevista</a>
 </div>
 </div>
 
