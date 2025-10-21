@@ -18,6 +18,10 @@
           <p>Linguagem que permite dar vida à web</p>
         </div>
         <div class="card">
+          <img src="../public/img/logo-react.png" alt="reactjs" />
+          <p>Framework  para o desensolvimento de aplicações SPA</p>
+        </div>
+        <div class="card">
           <img src="../public/img/icons8-vuejs-48.png" alt="vuejs" />
           <p>Framework para o desenvolvimento web</p>
         </div>
