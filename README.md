@@ -16,16 +16,16 @@ Boas práticas de responsividade , acessibilidade e UX/UI Design
 ✅ Versionamento com Git e GitHub
 ✅ Hospedagem e implantação (Netlify, Railway, Render)
 ```
+```
 💼 Projetos em Destaque
 🔹 Sistema de Caixa para Pequenos Comerciantes
 Projeto full-stack com registro de vendas e relatório de total de vendas.
-🔗 Acessar Deploy
-📁 Ver Código
+🔗 Acessar Deploy : https://sistemacaixa.netlify.app/#/
 
 🔹 Portfólio Pessoal
 Site responsivo para apresentar meus projetos e experiências.
-🔗 Acessar Portfólio
-📁 Ver Código
+🔗 Acessar Portfólio : https://juniorwelson.github.io/portifolio/
+```
 
 📫 Contato
 LinkedIn: www.linkedin.com/in/welson-junior-a587b72b8
