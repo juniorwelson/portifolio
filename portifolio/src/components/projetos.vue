@@ -2,7 +2,7 @@
 <section id="projeto" class="mt-5">
   <h2 id="title" class="pb-5">Projetos</h2>
   <div id="projetos" class="d-flex justify-center flex-wrap " >
-    
+    <!--primeiro card-->
     <div class="card bg- ms-5" style="width: 20rem">
       <img
         src="../public/img/tela-law.png"
@@ -144,6 +144,55 @@
     </div>
 
 
+
+
+     <!--quarto card-->
+    <div class="card bg- ms-5 mt-4" style="width: 20rem">
+      <img
+        src="../public/img/tela-recipe.png"
+        style="width: 20rem; height: 300px"
+        class="card-img-top"
+        alt="preview do site"
+      />
+      <div class="card-body ">
+        <h5 class="card-title " style="color: aqua;">Site de Receitas</h5>
+        <p class="card-text text-white">
+          Desenvolvi este site no intuito de colocar em práticas as habilidades
+          em REACT JS . Usei as seguintes tecnologias:
+        </p>
+        <div class="tecnologia">
+
+          <img
+            src="../public/img/icons8-git-48.png"
+            alt="logo-git"
+            class="tecno"
+          />
+          <img
+            src="../public/img/bootstrap.png"
+            alt="logo de bootsrap"
+            class="tecno"
+          />
+          <img src="../public/img/css.gif" alt="logo css" class="tecno" />
+          <img src="../public/img/html.gif" alt="logo html" class="tecno" />
+          <img
+            src="../public/img/icons8-javascript.gif"
+            alt="logo js"
+            class="tecno"
+          />
+          <img
+            src="../public/img/logo-react.png"
+            alt="logo-react js"
+            class="tecno"
+          />
+        </div>
+
+        <div class="btnAction">
+          <a href="https://github.com/juniorwelson/Site-Recipes" target=" _blank">Ver Código</a>
+          <a href="https://juniorwelson.github.io/Site-Recipes/" target=" _blank">Ver Projeto</a>
+        </div>
+      </div>
+    </div>
+
   </div>
 
   </section>
@@ -158,6 +207,7 @@ export default {
 </script>
 
 <style scoped>
+/*https://juniorwelson.github.io/Site-Recipes/ https://github.com/juniorwelson/Site-Recipes*/
 #projetos{
 margin-left:12%;
 }
