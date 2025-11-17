@@ -13,7 +13,7 @@
 
 </div> 
 <div id="acao">
-    <a class="social"  target="_blank" href="https://github.com/juniorwelson/curriculo-welson/blob/main/cv-welson%201%20(1).pdf">Download CV</a>
+    <a class="social"  target="_blank" href="https://github.com/juniorwelson/curriculo-welson/blob/main/CV-WELSON.pdf">Download CV</a>
     <a class="social" target="_blank" href="https://wa.me/5575999431903?text=ol%C3%A1%20welson%2C%20vim%20do%20seu%20portifolio.%20Podemos%20marcar%20uma%20entrevista%3F">Marcar uma Entrevista</a>
 </div>
 </div>
