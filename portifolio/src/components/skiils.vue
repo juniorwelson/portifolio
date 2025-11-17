@@ -29,6 +29,14 @@
           <img src="../public/img/bootstrap.png" alt="bootstrap" />
           <p>Framework de estilização das páginas web</p>
         </div>
+
+<div class="card">
+          <img src="../public/img/tailwind.png" alt="tailwind" />
+          <p>Framework moderno de estilização e melhoria da experiência do usuário das páginas web</p>
+        </div>
+
+
+
         <div class="card">
           <img src="../public/img/nodejs.png" alt="node" />
           <p>Ambiente para executar JS no backend</p>
