@@ -11,7 +11,7 @@ Node.js , Express e MySQL sem backend
 Boas práticas de responsividade , acessibilidade e UX/UI Design
 🧠 Habilidades
 ✅ Desenvolvimento Front-End (HTML, CSS, JS)
-✅ Frameworks modernos (Vue.js, React js Bootstrap)
+✅ Frameworks modernos (Vue.js, React js Bootstrap, Tailwind css)
 ✅ Integração com Back-End (Node + Express + MySQL)
 ✅ Versionamento com Git e GitHub
 ✅ Hospedagem e implantação (Netlify, Railway, Render)
