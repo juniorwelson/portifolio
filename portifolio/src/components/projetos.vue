@@ -241,6 +241,52 @@
       </div>
     </div>
 
+    <!--6 card-->
+    <div class="card bg- ms-5 mt-4" style="width: 20rem">
+      <img
+        src="../public/img/tela-welson.png"
+        style="width: 20rem; height: 300px"
+        class="card-img-top mx-auto"
+        alt="preview do site"
+      />
+      <div class="card-body ">
+        <h5 class="card-title " style="color: aqua;">Site De Welson Saxofonista</h5>
+        <p class="card-text text-white">
+          Serviço realizado como freelance.Site que conta com seções que mostra serviços e um pouco da história do músico , conta com carrossel animado usando a lib SWIPER JS. Acesse e descubra maravilha. Usei as seguintes tecnologias:
+        </p>
+        <div class="tecnologia">
+
+          <img
+            src="../public/img/icons8-git-48.png"
+            alt="logo-git"
+            class="tecno"
+          />
+          <img
+            src="../public/img/tailwind.png"
+            alt="logo do tailwind"
+            class="tecno"
+          />
+          <img src="../public/img/css.gif" alt="logo css" class="tecno" />
+          <img src="../public/img/html.gif" alt="logo html" class="tecno" />
+          <img
+            src="../public/img/icons8-javascript.gif"
+            alt="logo js"
+            class="tecno"
+          />
+          <img
+            src="../public/img/logo-react.png"
+            alt="logo-react js"
+            class="tecno"
+          />
+        </div>
+
+        <div class="btnAction">
+          <a href="https://github.com/juniorwelson/Site-Welson-Sax" target=" _blank">Ver Código</a>
+          <a href="https://welsonsax.com.br/" target=" _blank">Ver Projeto</a>
+        </div>
+      </div>
+    </div>
+
   </div>
 
   </section>
