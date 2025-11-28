@@ -26,10 +26,10 @@ Atualmente, venho desenvolvendo projetos utilizando:
 
 ## 💼 Projetos em Destaque
 
-### 🔹 Sistema de Caixa para Pequenos Comerciantes
-> Projeto full-stack com registro de vendas e relatório de total de vendas.  
-🔗 [Acessar Deploy]("https://sistemacaixa.netlify.app/#/")  
-📁 [Ver Código]("https://github.com/juniorwelson/sistema-caixa")
+### 🔹 Sistema de Welson Sax
+> Freelance para Músico profissional.  
+🔗 [Acessar Deploy]("welsonsax.com.br")  
+📁 [Ver Código]("https://github.com/juniorwelson/Site-Welson-Sax")
 
 ### 🔹 Portfólio Pessoal
 > Site responsivo para apresentar meus projetos e experiências.  
