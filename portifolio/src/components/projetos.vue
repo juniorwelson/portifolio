@@ -286,6 +286,47 @@
         </div>
       </div>
     </div>
+    <!--7 card-->
+    <div class="card bg- ms-5 mt-4" style="width: 20rem">
+      <img
+        src="../public/img/tela-devlist.png"
+        style="width: 20rem; height: 300px"
+        class="card-img-top mx-auto"
+        alt="preview do site"
+      />
+      <div class="card-body ">
+        <h5 class="card-title " style="color: aqua;">Sistema To-do List</h5>
+        <p class="card-text text-white">
+        Projeto desenvolvido para gerenciar tarefas diárias, permitindo adicionar, editar e excluir itens de uma lista de afazeres. Usei as seguintes tecnologias:
+        </p>
+        <div class="tecnologia">
+
+          <img
+            src="../public/img/icons8-git-48.png"
+            alt="logo-git"
+            class="tecno"
+          />
+          
+          <img src="../public/img/css.gif" alt="logo css" class="tecno" />
+          <img src="../public/img/html.gif" alt="logo html" class="tecno" />
+          <img
+            src="../public/img/logo-TS.png"
+            alt="logo typescript"
+            class="tecno"
+          />
+          <img
+            src="../public/img/logo-react.png"
+            alt="logo-react js"
+            class="tecno"
+          />
+        </div>
+
+        <div class="btnAction">
+          <a href="https://github.com/juniorwelson/devlist" target=" _blank">Ver Código</a>
+          <a href="https://juniorwelson.github.io/devlist//" target=" _blank">Ver Projeto</a>
+        </div>
+      </div>
+    </div>
 
   </div>
 
