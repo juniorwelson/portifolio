@@ -29,6 +29,10 @@
           <img src="../public/img/bootstrap.png" alt="bootstrap" />
           <p>Framework de estilização das páginas web</p>
         </div>
+        <div class="card">
+          <img src="../public/img/logo-TS.png" alt="typescript" />
+          <p>Linguagem de tipagem estática baseada no JavaScript</p>
+        </div>
 
 <div class="card">
           <img src="../public/img/tailwind.png" alt="tailwind" />
